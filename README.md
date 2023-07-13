@@ -9,6 +9,7 @@ This repo illustrate **pathfinding algorithms** such as:
 
 ## Prerequisite
 - Python 3.9.12
+- pygame 2.1.2 (in requirements)
 
 ## How to use
 Run the following command to execute code:
